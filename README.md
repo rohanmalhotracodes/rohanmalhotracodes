@@ -8,10 +8,11 @@ I like working on real codebases — reading existing architecture, fixing bugs,
 
 ## 🏷️ Highlights & Badges
 
-![CodeVita Rank](https://img.shields.io/badge/TCS%20CodeVita-Global%20Rank%2057-blue?style=flat)
-![Yandex](https://img.shields.io/badge/Yandex%20CodeRun-Top%20100-orange?style=flat)
-![Defense](https://img.shields.io/badge/Defense%20R%26D-Industry%20Experience-darkgreen?style=flat)
-![Linux](https://img.shields.io/badge/Linux-Comfortable-black?style=flat)
+![BEL](https://img.shields.io/badge/Bharat%20Electronics%20Limited-Defense%20R%26D-0B3D91?style=for-the-badge)
+![CodeVita](https://img.shields.io/badge/TCS%20CodeVita-Global%20Rank%2057-0052CC?style=for-the-badge)
+![Yandex](https://img.shields.io/badge/Yandex%20CodeRun-Top%20100-FFCC00?style=for-the-badge&logo=yandex)
+![Linux](https://img.shields.io/badge/Linux-Comfortable-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
