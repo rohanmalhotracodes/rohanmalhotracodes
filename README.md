@@ -8,8 +8,6 @@ I like working on real codebases — reading existing architecture, fixing bugs,
 
 ## 🏷️ Highlights & Badges
 
-![GSoC Aspirant](https://img.shields.io/badge/GSoC-Aspirant-4285F4?style=flat)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat)
 ![CodeVita Rank](https://img.shields.io/badge/TCS%20CodeVita-Global%20Rank%2057-blue?style=flat)
 ![Yandex](https://img.shields.io/badge/Yandex%20CodeRun-Top%20100-orange?style=flat)
 ![Defense](https://img.shields.io/badge/Defense%20R%26D-Industry%20Experience-darkgreen?style=flat)
@@ -28,35 +26,11 @@ India’s leading defense electronics PSU
 
 ---
 
-## 🔍 What I Work On
-- Understanding and contributing to **large repositories**
-- Bug fixing, refactoring, and performance improvements
-- Writing clear documentation and readable code
-- ML-backed features with real-world constraints (latency, accuracy, robustness)
-
----
-
-## 🧠 How I Approach Open Source
-- Prefer **small, well-scoped PRs**
-- Keep commits atomic and messages meaningful
-- Follow existing patterns instead of rewriting everything
-- Ask questions early and iterate based on review feedback
-
----
-
 ## 🛠 Tech Stack
-**Languages:** Python, C++, SQL  
+**Languages:** Python, C++ 
 **Foundations:** Data Structures & Algorithms, OS, DBMS, Computer Networks, OOP  
 **ML:** YOLO, ANN, feature engineering, imbalanced datasets  
 **Tools:** Git, GitHub, Linux, REST APIs  
-
----
-
-## 🚀 Selected Work
-- **Real-time accident detection system**  
-  → 96% accuracy, 180ms latency, tuned on Indian road data  
-- **Fraud detection system**  
-  → >97% precision on highly imbalanced financial datasets  
 
 ---
 
@@ -71,7 +45,3 @@ India’s leading defense electronics PSU
 ## 📫 Contact
 - **Email:** rohanmalhotra430@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/rohanmalhotracodes  
-
----
-
-⭐ I value clean code, clear communication, and steady contribution over hype.
