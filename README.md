@@ -1,54 +1,66 @@
 # Hi, I’m Rohan 👋
 
-I’m a Computer Engineering student at **Thapar Institute of Engineering & Technology** and an aspiring **Google Summer of Code (GSoC) contributor**.
+Computer Engineering student at **Thapar Institute of Engineering & Technology** with interests in **open-source development, backend systems, and applied machine learning**.
 
-I enjoy working on **large open-source codebases**, fixing bugs, improving performance, and writing clean, well-documented patches that are easy to review and maintain.
-
----
-
-## 🌱 What I’m Currently Doing
-- Preparing for **Google Summer of Code**
-- Exploring open-source projects and understanding real-world architectures
-- Fixing beginner to intermediate issues in active repositories
-- Improving my skills in testing, documentation, and system design
+I like working on real codebases — reading existing architecture, fixing bugs, improving performance, and writing changes that are easy to review and maintain.
 
 ---
 
-## 🧩 Open-Source Mindset
-- Small, focused PRs over large unreviewable changes
-- Clear commit messages and readable diffs
-- Documentation and tests matter as much as code
-- Early communication and iterative improvement
+## 🏷️ Highlights & Badges
+
+![GSoC Aspirant](https://img.shields.io/badge/GSoC-Aspirant-4285F4?style=flat)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat)
+![CodeVita Rank](https://img.shields.io/badge/TCS%20CodeVita-Global%20Rank%2057-blue?style=flat)
+![Yandex](https://img.shields.io/badge/Yandex%20CodeRun-Top%20100-orange?style=flat)
+![ML](https://img.shields.io/badge/Machine%20Learning-Production%20Focused-purple?style=flat)
+![Linux](https://img.shields.io/badge/Linux-Comfortable-black?style=flat)
 
 ---
 
-## 🛠 Technical Skills
+## 🔍 What I Work On
+- Understanding and contributing to **large repositories**
+- Bug fixing, refactoring, and performance improvements
+- Writing clear documentation and readable code
+- ML-backed features with real-world constraints (latency, accuracy, robustness)
+
+---
+
+## 🧠 How I Approach Open Source
+- Prefer **small, well-scoped PRs**
+- Keep commits atomic and messages meaningful
+- Follow existing patterns instead of rewriting everything
+- Ask questions early and iterate based on review feedback
+
+---
+
+## 🛠 Tech Stack
 **Languages:** Python, C++, SQL  
-**CS Foundations:** Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, OOP  
-**Machine Learning:** YOLO, ANN, feature engineering, imbalanced datasets  
+**Foundations:** DSA, OS, DBMS, Computer Networks, OOP  
+**ML:** YOLO, ANN, feature engineering, imbalanced datasets  
 **Tools:** Git, GitHub, Linux, REST APIs  
 
 ---
 
-## 🏆 Highlights
-- TCS CodeVita — **Global Rank 57**
-- Yandex CodeRun Winter Challenge — **Top 100**
-- Built a real-time accident detection system (**96% accuracy, 180ms latency**)
-- Engineered a fraud detection system with **>97% precision**
-- Strong technical writing background with national-level recognition
+## 🚀 Selected Work
+- Real-time accident detection system  
+  → 96% accuracy, 180ms latency, tuned on Indian road data  
+- Fraud detection system  
+  → >97% precision on highly imbalanced financial data  
 
 ---
 
-## 🤝 Why Open Source
-I value open source because it emphasizes **collaboration, transparency, and long-term impact**.  
-My goal is to become a reliable contributor whom maintainers can trust with production code.
+## 📌 Competitive & Academic Highlights
+- **TCS CodeVita** — Global Rank **57**
+- **Yandex CodeRun Winter Challenge** — Top **100**
+- National-level recognition for technical writing
+- Experience balancing performance, correctness, and maintainability
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 - **Email:** rohanmalhotra430@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/rohanmalhotracodes  
 
 ---
 
-⭐ Always open to learning, feedback, and meaningful contributions.
+⭐ I value clean code, clear communication, and steady contribution over hype.
