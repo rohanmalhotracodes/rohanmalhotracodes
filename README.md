@@ -1,48 +1,29 @@
-# Hi, I’m Rohan 👋
+<!-- Incoming message 1 -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&pause=800&color=36BCF7&width=420&lines=Incoming+message…" />
 
-Computer Engineering student at **Thapar Institute of Engineering & Technology** with interests in **open-source development, backend systems, and applied machine learning**.
+<!-- Incoming message 2 -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&pause=900&color=FFFFFF&width=420&lines=Hey.+This+is+Rohan." />
 
-I like working on real codebases — reading existing architecture, fixing bugs, improving performance, and writing changes that are easy to review and maintain.
+<!-- Incoming message 3 -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&pause=900&color=FFFFFF&width=420&lines=Computer+Engineering+@+Thapar." />
 
----
+<!-- Incoming message 4 -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&pause=900&color=FFFFFF&width=420&lines=I+build+things+with+data+and+code." />
 
-## 🏷️ Highlights & Badges
+<br/>
 
-![BEL](https://img.shields.io/badge/Bharat%20Electronics%20Limited-Defense%20R%26D-0B3D91?style=for-the-badge)
-![CodeVita](https://img.shields.io/badge/TCS%20CodeVita-Global%20Rank%2057-0052CC?style=for-the-badge)
-![Yandex](https://img.shields.io/badge/Yandex%20CodeRun-Top%20100-FFCC00?style=for-the-badge&logo=yandex)
-![Linux](https://img.shields.io/badge/Linux-Comfortable-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!-- Achievements incoming -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=700&color=7CFC00&width=520&lines=🏆+CodeVita+Season+13+—+Global+Rank+57" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=700&color=7CFC00&width=520&lines=🏆+Yandex+CodeRun+—+Top+100+(Rank+87)" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=700&color=7CFC00&width=520&lines=🏆+Kaggle+—+Top+ranks+in+multiple+competitions" />
 
+<br/>
 
----
+<!-- Skills incoming -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=900&color=FFA500&width=520&lines=Python+•+C%2B%2B+•+SQL+•+R" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=900&color=FFA500&width=520&lines=Machine+Learning+•+Feature+Engineering" />
 
-## 🏢 Industry Experience
-**Trainee – Central Research Laboratory, Bharat Electronics Limited (BEL)**  
-India’s leading defense electronics PSU
+<br/>
 
-- Worked on real-time computer vision systems under strict performance constraints  
-- Built and optimized a road-accident detection pipeline used for safety monitoring  
-- Improved model accuracy and reduced latency through tuning and system-level optimizations  
-- Gained exposure to **production ML, reliability, and engineering discipline** in a regulated environment  
-
----
-
-## 🛠 Tech Stack
-**Languages:** Python, C++ 
-**Foundations:** Data Structures & Algorithms, OS, DBMS, Computer Networks, OOP  
-**ML:** YOLO, ANN, feature engineering, imbalanced datasets  
-**Tools:** Git, GitHub, Linux, REST APIs  
-
----
-
-## 📌 Competitive & Academic Highlights
-- **TCS CodeVita** — Global Rank **57**
-- **Yandex CodeRun Winter Challenge** — Top **100**
-- National-level recognition for technical writing
-- Comfortable balancing performance, correctness, and maintainability
-
----
-
-## 📫 Contact
-- **Email:** rohanmalhotra430@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/rohanmalhotracodes  
+<!-- Status -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=1200&color=AAAAAA&width=520&lines=Status%3A+Online.+Learning.+Building." />
