@@ -1,29 +1,26 @@
-<!-- Incoming message 1 -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&pause=800&color=36BCF7&width=420&lines=Incoming+message…" />
+<!-- INCOMING TEXT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=900&color=36BCF7&width=520&lines=📩+Incoming+message…;Hey.+This+is+Rohan.;Computer+Engineering+@+Thapar.;I+like+hard+problems+and+clean+solutions." />
 
-<!-- Incoming message 2 -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&pause=900&color=FFFFFF&width=420&lines=Hey.+This+is+Rohan." />
+---
 
-<!-- Incoming message 3 -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&pause=900&color=FFFFFF&width=420&lines=Computer+Engineering+@+Thapar." />
+### 💬 Messages
 
-<!-- Incoming message 4 -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&pause=900&color=FFFFFF&width=420&lines=I+build+things+with+data+and+code." />
+> **Rohan:** 🏆 CodeVita Season 13 — Global Rank **57**  
+> **Rohan:** 🏆 Yandex CodeRun — **Top 100** (Rank 87)  
+> **Rohan:** 🏆 Kaggle — Top finishes in multiple competitions  
+> **Rohan:** ✍️ Published author — **SRCC (180DC Magazine)**  
+> **Rohan:** 🎓 Recognised by **IIM Indore** (national-level writing)
 
-<br/>
+---
 
-<!-- Achievements incoming -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=700&color=7CFC00&width=520&lines=🏆+CodeVita+Season+13+—+Global+Rank+57" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=700&color=7CFC00&width=520&lines=🏆+Yandex+CodeRun+—+Top+100+(Rank+87)" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=700&color=7CFC00&width=520&lines=🏆+Kaggle+—+Top+ranks+in+multiple+competitions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1000&color=AAAAAA&width=520&lines=typing…;Python+•+C%2B%2B+•+SQL+•+R;Machine+Learning+•+Data+Science;Competitive+Programming+•+Open+Source" />
 
-<br/>
+---
 
-<!-- Skills incoming -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=900&color=FFA500&width=520&lines=Python+•+C%2B%2B+•+SQL+•+R" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=900&color=FFA500&width=520&lines=Machine+Learning+•+Feature+Engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1200&color=7CFC00&width=520&lines=Status:+Online;Currently:+Building+useful+things;Next:+Competitions+%7C+Open+Source" />
 
-<br/>
+---
 
-<!-- Status -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=1200&color=AAAAAA&width=520&lines=Status%3A+Online.+Learning.+Building." />
+📎 **Contact**
+- LinkedIn: https://linkedin.com/in/rohanmalhotra  
+- Email: rohanmalhotra430@gmail.com
