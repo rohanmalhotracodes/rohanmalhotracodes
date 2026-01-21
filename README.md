@@ -12,8 +12,19 @@ I like working on real codebases — reading existing architecture, fixing bugs,
 ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat)
 ![CodeVita Rank](https://img.shields.io/badge/TCS%20CodeVita-Global%20Rank%2057-blue?style=flat)
 ![Yandex](https://img.shields.io/badge/Yandex%20CodeRun-Top%20100-orange?style=flat)
-![ML](https://img.shields.io/badge/Machine%20Learning-Production%20Focused-purple?style=flat)
+![Defense](https://img.shields.io/badge/Defense%20R%26D-Industry%20Experience-darkgreen?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-Comfortable-black?style=flat)
+
+---
+
+## 🏢 Industry Experience
+**Trainee – Central Research Laboratory, Bharat Electronics Limited (BEL)**  
+India’s leading defense electronics PSU
+
+- Worked on real-time computer vision systems under strict performance constraints  
+- Built and optimized a road-accident detection pipeline used for safety monitoring  
+- Improved model accuracy and reduced latency through tuning and system-level optimizations  
+- Gained exposure to **production ML, reliability, and engineering discipline** in a regulated environment  
 
 ---
 
@@ -35,17 +46,17 @@ I like working on real codebases — reading existing architecture, fixing bugs,
 
 ## 🛠 Tech Stack
 **Languages:** Python, C++, SQL  
-**Foundations:** DSA, OS, DBMS, Computer Networks, OOP  
+**Foundations:** Data Structures & Algorithms, OS, DBMS, Computer Networks, OOP  
 **ML:** YOLO, ANN, feature engineering, imbalanced datasets  
 **Tools:** Git, GitHub, Linux, REST APIs  
 
 ---
 
 ## 🚀 Selected Work
-- Real-time accident detection system  
+- **Real-time accident detection system**  
   → 96% accuracy, 180ms latency, tuned on Indian road data  
-- Fraud detection system  
-  → >97% precision on highly imbalanced financial data  
+- **Fraud detection system**  
+  → >97% precision on highly imbalanced financial datasets  
 
 ---
 
@@ -53,7 +64,7 @@ I like working on real codebases — reading existing architecture, fixing bugs,
 - **TCS CodeVita** — Global Rank **57**
 - **Yandex CodeRun Winter Challenge** — Top **100**
 - National-level recognition for technical writing
-- Experience balancing performance, correctness, and maintainability
+- Comfortable balancing performance, correctness, and maintainability
 
 ---
 
