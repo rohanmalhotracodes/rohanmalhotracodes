@@ -35,8 +35,8 @@
     <rect x="80" y="110" width="760" height="70" rx="18" class="bubble"/>
     <circle cx="112" cy="145" r="10" fill="#1f6feb"/>
     <text x="135" y="142" class="mono sender">GitHub:</text>
-    <text x="225" y="142" class="sans text">Rohan Malhotra — CSE @ Thapar (TIET)</text>
-    <text x="225" y="166" class="sans sub">Data Science • ML • Competitive Programming</text>
+    <text x="225" y="142" class="sans text">Rohan Malhotra — Computer Engineering @ Thapar (TIET)</text>
+    <text x="225" y="166" class="sans sub">Open Source • Competitive Programming</text>
   </g>
 
   <!-- typing indicator -->
@@ -61,8 +61,8 @@
     <rect x="80" y="190" width="790" height="74" rx="18" class="bubble"/>
     <circle cx="112" cy="227" r="10" fill="#1f6feb"/>
     <text x="135" y="224" class="mono sender">GitHub:</text>
-    <text x="225" y="224" class="sans text">🏆 CodeVita S13 — Global Rank 57</text>
-    <text x="225" y="248" class="sans sub">🏆 Yandex CodeRun — Top 100 (Rank 87)</text>
+    <text x="225" y="224" class="sans sub">Amazon ML Summer School 2025 • Unstop's Top 100 Unstoppable Leaders 2026</text>
+    <text x="225" y="248" class="sans sub">Yandex CodeRun — Top 100 (Rank 87) • TCS CodeVita S13 — Global Rank 57 </text>
   </g>
 
   <!-- Message 3 -->
@@ -71,6 +71,6 @@
     <rect x="80" y="270" width="790" height="54" rx="18" class="bubble"/>
     <circle cx="112" cy="297" r="10" fill="#1f6feb"/>
     <text x="135" y="300" class="mono sender">GitHub:</text>
-    <text x="225" y="300" class="sans sub">✍️ Published (SRCC 180DC) • Recognised by IIM Indore</text>
+    <text x="225" y="300" class="sans sub"> Published (SRCC 180DC) • Recognised by IIM Indore</text>
   </g>
 </svg>
