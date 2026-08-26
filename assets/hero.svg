@@ -1,28 +1,27 @@
-<svg width="1100" height="330" viewBox="0 0 1100 330" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="1098" height="328" rx="28" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+<svg width="1100" height="300" viewBox="0 0 1100 300" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="1098" height="298" rx="28" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
 <g font-family="Inter,Arial,sans-serif">
-  <text x="54" y="70" font-size="14" font-weight="700" letter-spacing="2.4" fill="#6b7280">ROHAN MALHOTRA</text>
-  <text x="54" y="128" font-size="42" font-weight="700" letter-spacing="-1.4" fill="#111827">Computer Engineer.</text>
-  <text x="54" y="176" font-size="42" font-weight="700" letter-spacing="-1.4" fill="#111827">Open-source builder.</text>
-  <text x="54" y="224" font-size="18" fill="#6b7280">Developer tooling · product infrastructure · applied computer vision</text>
-  <rect x="54" y="258" width="160" height="42" rx="21" fill="#111827"/>
-  <text x="134" y="284" text-anchor="middle" font-size="14" font-weight="700" fill="#ffffff">PORTFOLIO ↗</text>
+  <text x="54" y="62" font-size="13" font-weight="700" letter-spacing="2.4" fill="#6b7280">ROHAN MALHOTRA</text>
+  <text x="54" y="120" font-size="42" font-weight="700" letter-spacing="-1.4" fill="#111827">Computer Engineer.</text>
+  <text x="54" y="168" font-size="42" font-weight="700" letter-spacing="-1.4" fill="#111827">Open-source contributor.</text>
+  <text x="54" y="214" font-size="17" fill="#6b7280">Developer tooling · product infrastructure · applied computer vision</text>
+  <text x="54" y="258" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" letter-spacing="1.1" fill="#9ca3af">OPEN SOURCE / SYSTEMS / DEVTOOLS / VISION</text>
 </g>
-<g transform="translate(670,36)">
-  <rect width="376" height="258" rx="22" fill="#fafafa" stroke="#e5e7eb"/>
+<g transform="translate(674,32)">
+  <rect width="372" height="236" rx="22" fill="#fafafa" stroke="#e5e7eb"/>
   <g stroke="#e5e7eb" stroke-width="1">
-    <path d="M47 0V258M94 0V258M141 0V258M188 0V258M235 0V258M282 0V258M329 0V258"/>
-    <path d="M0 43H376M0 86H376M0 129H376M0 172H376M0 215H376"/>
+    <path d="M46.5 0V236M93 0V236M139.5 0V236M186 0V236M232.5 0V236M279 0V236M325.5 0V236"/>
+    <path d="M0 39.3H372M0 78.6H372M0 117.9H372M0 157.2H372M0 196.5H372"/>
+  </g>
+  <g stroke="#111827" stroke-width="2" fill="none" opacity=".72">
+    <path d="M82 91L176 49L278 126L145 169L318 205"/>
   </g>
   <g fill="#111827">
-    <circle cx="94" cy="86" r="6"/><circle cx="188" cy="43" r="6"/><circle cx="282" cy="129" r="6"/><circle cx="141" cy="172" r="6"/><circle cx="329" cy="215" r="6"/>
+    <circle cx="82" cy="91" r="6"/><circle cx="176" cy="49" r="6"/><circle cx="278" cy="126" r="6"/><circle cx="145" cy="169" r="6"/><circle cx="318" cy="205" r="6"/>
   </g>
-  <g stroke="#111827" stroke-width="2" fill="none" opacity=".75">
-    <path d="M94 86L188 43L282 129L141 172L329 215"/>
-  </g>
-  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#6b7280">
-    <text x="16" y="24">SYSTEMS</text><text x="292" y="24">01</text>
-    <text x="16" y="244">BUILD / DEBUG / SHIP</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" fill="#6b7280">
+    <text x="16" y="22">SYSTEMS</text><text x="302" y="22">01</text>
+    <text x="16" y="221">BUILD / DEBUG / SHIP</text>
   </g>
 </g>
 </svg>
