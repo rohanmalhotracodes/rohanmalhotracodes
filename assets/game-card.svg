@@ -1,0 +1,17 @@
+<svg width="1100" height="300" viewBox="0 0 1100 300" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="1098" height="298" rx="24" fill="#fff" stroke="#e5e7eb" stroke-width="2"/>
+<g font-family="Inter,Arial,sans-serif">
+  <text x="48" y="58" font-size="14" font-weight="700" letter-spacing="2" fill="#6b7280">PROFILE GAME</text>
+  <text x="48" y="105" font-size="32" font-weight="700" fill="#111827">Tic-Tac-Toe</text>
+  <text x="48" y="137" font-size="16" fill="#6b7280">Instant game · no GitHub issue · no refresh · no waiting</text>
+  <rect x="48" y="190" width="160" height="44" rx="22" fill="#111827"/>
+  <text x="128" y="218" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">PLAY NOW ↗</text>
+</g>
+<g transform="translate(690,34)">
+  <rect width="232" height="232" rx="22" fill="#fafafa" stroke="#e5e7eb"/>
+  <g stroke="#d1d5db" stroke-width="3"><path d="M77.3 18V214M154.6 18V214M18 77.3H214M18 154.6H214"/></g>
+  <g font-family="Inter,Arial,sans-serif" font-size="42" font-weight="700" fill="#111827">
+    <text x="39" y="60">X</text><text x="116" y="136">O</text><text x="193" y="213" text-anchor="end">X</text>
+  </g>
+</g>
+</svg>
