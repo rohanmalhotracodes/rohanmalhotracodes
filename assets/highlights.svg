@@ -1,0 +1,32 @@
+<svg width="1100" height="205" viewBox="0 0 1100 205" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="1098" height="203" rx="24" fill="#fff" stroke="#e5e7eb" stroke-width="2"/>
+<g font-family="Inter,Arial,sans-serif">
+  <text x="38" y="43" font-size="13" font-weight="700" letter-spacing="2" fill="#6b7280">SELECTED HIGHLIGHTS</text>
+  <g transform="translate(38,66)">
+    <rect width="190" height="104" rx="18" fill="#fafafa" stroke="#e5e7eb"/>
+    <text x="20" y="53" font-size="34" font-weight="700" fill="#111827">#57</text>
+    <text x="20" y="81" font-size="13" font-weight="600" fill="#6b7280">TCS CODEVITA</text>
+  </g>
+  <g transform="translate(246,66)">
+    <rect width="190" height="104" rx="18" fill="#fafafa" stroke="#e5e7eb"/>
+    <text x="20" y="53" font-size="34" font-weight="700" fill="#111827">#87</text>
+    <text x="20" y="81" font-size="13" font-weight="600" fill="#6b7280">YANDEX CODERUN</text>
+  </g>
+  <g transform="translate(454,66)">
+    <rect width="190" height="104" rx="18" fill="#fafafa" stroke="#e5e7eb"/>
+    <text x="20" y="53" font-size="34" font-weight="700" fill="#111827">#8</text>
+    <text x="20" y="81" font-size="13" font-weight="600" fill="#6b7280">UNSTOP E-SCHOOL</text>
+  </g>
+  <g transform="translate(662,66)">
+    <rect width="190" height="104" rx="18" fill="#fafafa" stroke="#e5e7eb"/>
+    <text x="20" y="49" font-size="28" font-weight="700" fill="#111827">Top 50</text>
+    <text x="20" y="72" font-size="13" fill="#4b5563">of 5,400+</text>
+    <text x="20" y="91" font-size="12" font-weight="600" fill="#6b7280">WEMAKEDEVS</text>
+  </g>
+  <g transform="translate(870,66)">
+    <rect width="192" height="104" rx="18" fill="#fafafa" stroke="#e5e7eb"/>
+    <text x="20" y="53" font-size="34" font-weight="700" fill="#111827">2×</text>
+    <text x="20" y="81" font-size="13" font-weight="600" fill="#6b7280">HACKATHON WINNER</text>
+  </g>
+</g>
+</svg>
