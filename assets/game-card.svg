@@ -1,17 +1,16 @@
-<svg width="1100" height="300" viewBox="0 0 1100 300" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="1" width="1098" height="298" rx="24" fill="#fff" stroke="#e5e7eb" stroke-width="2"/>
+<svg width="1100" height="270" viewBox="0 0 1100 270" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="1098" height="268" rx="24" fill="#fff" stroke="#e5e7eb" stroke-width="2"/>
 <g font-family="Inter,Arial,sans-serif">
-  <text x="48" y="58" font-size="14" font-weight="700" letter-spacing="2" fill="#6b7280">PROFILE GAME</text>
-  <text x="48" y="105" font-size="32" font-weight="700" fill="#111827">Tic-Tac-Toe</text>
-  <text x="48" y="137" font-size="16" fill="#6b7280">Instant game · no GitHub issue · no refresh · no waiting</text>
-  <rect x="48" y="190" width="160" height="44" rx="22" fill="#111827"/>
-  <text x="128" y="218" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">PLAY NOW ↗</text>
+  <text x="48" y="58" font-size="13" font-weight="700" letter-spacing="2" fill="#6b7280">PROFILE GAME</text>
+  <text x="48" y="108" font-size="34" font-weight="700" fill="#111827">Tic-Tac-Toe</text>
+  <text x="48" y="142" font-size="16" fill="#6b7280">Instant browser game on my portfolio.</text>
+  <text x="48" y="191" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#374151">you = X · bot = O · no sign-in required</text>
 </g>
-<g transform="translate(690,34)">
-  <rect width="232" height="232" rx="22" fill="#fafafa" stroke="#e5e7eb"/>
-  <g stroke="#d1d5db" stroke-width="3"><path d="M77.3 18V214M154.6 18V214M18 77.3H214M18 154.6H214"/></g>
-  <g font-family="Inter,Arial,sans-serif" font-size="42" font-weight="700" fill="#111827">
-    <text x="39" y="60">X</text><text x="116" y="136">O</text><text x="193" y="213" text-anchor="end">X</text>
+<g transform="translate(750,28)">
+  <rect width="214" height="214" rx="22" fill="#fafafa" stroke="#e5e7eb"/>
+  <g stroke="#d1d5db" stroke-width="3"><path d="M71.3 16V198M142.6 16V198M16 71.3H198M16 142.6H198"/></g>
+  <g font-family="Inter,Arial,sans-serif" font-size="38" font-weight="700" fill="#111827">
+    <text x="36" y="55">X</text><text x="107" y="126">O</text><text x="178" y="197" text-anchor="end">X</text>
   </g>
 </g>
 </svg>
